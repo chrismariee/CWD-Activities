@@ -1,0 +1,19 @@
+.ads-link {
+    font-weight: 120;
+    font-size: 13px;
+}
+
+.ads-link-small {
+    font-weight: 120;
+    font-size: 10px;
+    margin-left: 50px;
+}
+
+.ads-img {
+    margin-top: 20px;
+}
+
+.build-item {
+    position: sticky;
+    top: 0px;
+}

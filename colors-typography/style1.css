@@ -1,0 +1,13 @@
+h1, h2, h3, h4, h5, h6, p {
+    font-weight: 400;
+}
+.flow-text {
+    white-space: pre-line;
+    color: #3C5556
+}
+blockquote{
+    white-space: pre-line;
+}
+.quote {
+    border-left: 5px solid #6d4c41;
+}

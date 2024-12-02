@@ -1,0 +1,103 @@
+h1, h2, h3, h4, h5, h6, p {
+    font-weight: 400;
+}
+.flow-text {
+    color: #6d4c41
+}
+
+
+.navbar-right a {
+    text-decoration: none;
+    color: rgb(87, 87, 79);
+    font-weight: bold;
+    margin: 3px 0px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    font-family: 'Arial Black';
+}
+
+/* Hover effect for the navbar links */
+.navbar-right a:hover {
+    color: rgb(255, 255, 255); /* Changes the text color when hovered */
+}
+
+.navbar-left a {
+    text-decoration: none;
+    color: rgb(87, 87, 79);
+    font-weight: bold;
+    margin: 3px 0px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    font-family: 'Arial Black';
+}
+
+/* Hover effect for the navbar links */
+.navbar-left a:hover {
+    color: rgb(255, 255, 255); /* Changes the text color when hovered */
+}
+
+.navbar-center a {
+    text-decoration: none;
+    color: rgb(87, 87, 79);
+    font-weight: bold;
+    margin: 3px 0px;
+    text-decoration: none;
+    display: flex;
+    align-items: center;
+    font-family: 'Arial Black';
+}
+
+/* Hover effect for the navbar links */
+.navbar-center a:hover {
+    color: rgb(255, 255, 255); /* Changes the text color when hovered */
+}
+
+.nav-extended a {
+    text-decoration: none;
+    color: rgb(87, 87, 79);
+    font-weight: bold;
+    margin: 3px 0px;
+    display: flex;
+    align-items: center;
+    font-family: 'Arial Black';
+}
+
+/* Hover effect for the navbar links */
+.nav-extended a:hover {
+    color: rgb(255, 255, 255); /* Changes the text color when hovered */
+}
+
+.sidenav a:hover {
+    text-decoration: underline;
+}
+
+.sidenav {
+    padding-top: 20px;
+}
+
+.nav {
+    color: rgb(87, 87, 79);
+}
+
+.nav:hover {
+    color: rgb(255, 255, 255); /* Changes the text color when hovered */
+}
+
+#dropdown1 {
+    background-color: rgb(255, 255, 255); /* Light gray background */
+    min-width: 150; /* Minimum width of the dropdown */
+    box-shadow: 0px 8px 16px rgba(137, 123, 123, 0.2); /* Drop shadow */
+    margin: 20px;
+}
+
+#dropdown1 li a {
+    color: rgb(87, 87, 79);
+    font-weight: 50px;
+}
+
+#dropdown1 a:hover {
+    color: rgb(255, 255, 255);
+    background-color: rgb(87, 87, 79);
+}

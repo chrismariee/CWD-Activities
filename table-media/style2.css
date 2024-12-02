@@ -1,0 +1,18 @@
+h1, h2, h3, h4, h5, h6, p {
+    font-weight: 400;
+}
+.flow-text {
+    color: #6d4c41
+}
+.card-panel{
+    border: 1px solid #6d4c41; /* Red border */
+    padding: 20px;
+    margin: 20px; /* Space from other elements */
+    width: auto; /* Adjust width based on content */
+    height: 40px;
+    box-sizing: content-box;
+    border-radius: 8px; /* Optional: rounded corners */
+}
+
+
+    
